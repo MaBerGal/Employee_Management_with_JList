@@ -1,9 +1,11 @@
 # Employee Management with JList (Serialization & Exceptions Practice)
-My second Java project on GitHub that spiritually improves on my previous one. It applies the MVC design philosophy more decisively by structuring and dividing the project in Model, Controller and View packages.
+My second Java project on GitHub that spiritually improves on my previous one. 
+It applies the MVC design philosophy more decisively by structuring and dividing the project in Model, Controller and View packages.
 
 <p align="center">
-  ### Features
-  * Synchronous JList and data structure navigation:
+  <h1><s>Features</s><h2>
+
+  <h2>Synchronous JList and data structure navigation:</h2>
   <img src="https://github.com/MaBerGal/Employee_Management_with_JList/assets/148444718/fad85101-4b34-4f56-9372-03585d47beb0" />
   * Synchronous JList and data structure navigation:
   <img src="https://github.com/MaBerGal/Employee_Management_with_JList/assets/148444718/fb744b0b-b32f-4bf2-a81c-c89c0ab9b32d" />
